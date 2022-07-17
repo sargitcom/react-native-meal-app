@@ -1,0 +1,5 @@
+.node/
+.idea/
+.expo/
+.node_modules/
+node_modules/
